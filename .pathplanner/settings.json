@@ -1,0 +1,28 @@
+{
+  "robotWidth": 0.84,
+  "robotLength": 1.016,
+  "holonomicMode": true,
+  "pathFolders": [
+    "Amp-Other",
+    "CenterLine-Other",
+    "New Folder",
+    "Speaker-Other",
+    "StartingNotes-Other",
+    "TeleopPaths"
+  ],
+  "autoFolders": [
+    "AmpLn",
+    "CenterLine-Other",
+    "New New Folder",
+    "Note Actions",
+    "Path Actions",
+    "SrcLn",
+    "StLn",
+    "StartingNoteToSpeaker"
+  ],
+  "defaultMaxVel": 4.0,
+  "defaultMaxAccel": 2.8,
+  "defaultMaxAngVel": 360.0,
+  "defaultMaxAngAccel": 270.0,
+  "maxModuleSpeed": 4.1
+}

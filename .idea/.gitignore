@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+compiler.xml
+gradle.xml
+jarRepositories.xml
+misc.xml
+vcs.xml
+workspace.xml
+modules.xml
+2024-Crescendo.iml
