@@ -1,0 +1,37 @@
+{
+  "version": 1.0,
+  "startingPose": {
+    "position": {
+      "x": 0.0,
+      "y": 5.0
+    },
+    "rotation": 0.0
+  },
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "TestingPath1"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "TestingPath2"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "TestingPath3"
+          }
+        }
+      ]
+    }
+  },
+  "folder": "Path Actions",
+  "choreoAuto": false
+}
