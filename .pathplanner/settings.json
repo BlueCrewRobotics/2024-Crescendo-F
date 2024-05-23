@@ -5,24 +5,19 @@
   "pathFolders": [
     "Amp-Other",
     "CenterLine-Other",
-    "New Folder",
+    "TeleopPaths",
     "Speaker-Other",
+    "Stage-Other",
     "StartingNotes-Other",
-    "TeleopPaths"
+    "TestingStuffs"
   ],
   "autoFolders": [
-    "AmpLn",
-    "CenterLine-Other",
-    "New New Folder",
-    "Note Actions",
     "Path Actions",
-    "SrcLn",
-    "StLn",
-    "StartingNoteToSpeaker"
+    "Note Actions"
   ],
   "defaultMaxVel": 4.0,
   "defaultMaxAccel": 2.8,
   "defaultMaxAngVel": 360.0,
   "defaultMaxAngAccel": 270.0,
-  "maxModuleSpeed": 4.1
+  "maxModuleSpeed": 4.2
 }
